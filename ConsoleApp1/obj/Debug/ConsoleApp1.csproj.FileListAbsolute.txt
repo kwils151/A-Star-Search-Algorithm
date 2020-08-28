@@ -1,0 +1,21 @@
+C:\Users\Kyle\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Kyle\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Kyle\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Kyle\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Kyle\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Kyle\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\UNCC Classes\ITCS 3153\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\UNCC Classes\ITCS 3153\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\UNCC Classes\ITCS 3153\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\UNCC Classes\ITCS 3153\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\UNCC Classes\ITCS 3153\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\UNCC Classes\ITCS 3153\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\UNCC Classes\ITCS 3153\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Kyle\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Kyle\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Kyle\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Kyle\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Kyle\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Kyle\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
